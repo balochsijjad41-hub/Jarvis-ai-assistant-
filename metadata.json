@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI Assistant",
+  "description": "Voice-controlled sci-fi AI assistant with Urdu, Roman Urdu & English speech recognition, futuristic Arc Reactor UI, audio visualizer, battery & device status, and automated commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
